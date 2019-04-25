@@ -3606,6 +3606,9 @@ input, select, textarea {
 				bottom: 0;
 				right: 0;
 			}
+                        #banner h2 img {
+                                height: 50px;
+                        }
 
 		#banner p {
 			letter-spacing: 0.225em;
@@ -3695,7 +3698,7 @@ input, select, textarea {
 					font-size: 1.25em;
 				}
 				#banner h2 img {
-					width: 75%;
+					height: 50px;
 				}
 				#banner h2 {
 					font-size: 1.25em;
